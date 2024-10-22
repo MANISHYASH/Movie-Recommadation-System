@@ -19,7 +19,8 @@
 1. Install the required packages:
    pip install -r requirements.txt
 
-2. Make sure you have your movie data (movies_list.pkl) and similarity matrix (similarity.pkl) files in the project directory.
+2. The movie data (`movies_list.pkl`) and similarity matrix (`similarity.pkl`) files will be generated when the code runs successfully.
+
 
 ## Usage
 
