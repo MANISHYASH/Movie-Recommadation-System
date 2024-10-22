@@ -1,4 +1,4 @@
-# Movie Recommender System
+# Movie Recommendation System
 
 🎬 A simple Movie Recommender System built using Streamlit that provides personalized movie recommendations based on user input.
 
